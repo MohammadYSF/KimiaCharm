@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdRCzUICOL1u0DnR7k1ZbG+pdupGDtdGkMa3BOkhv6ZdycEUnn2NKSQiSyOpO5riBXzigotLEUy1nMAAigdZ9w==",
+  "success": true,
+  "projectFilePath": "K:\\projects\\KimiaCharm\\KimiaCharm\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.5\\microsoft.aspnetcore.cryptography.internal.3.1.5.nupkg.sha512",
+    "C:\\Users\\Mohammad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.5\\microsoft.aspnetcore.cryptography.keyderivation.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

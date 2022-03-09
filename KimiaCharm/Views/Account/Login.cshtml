@@ -1,0 +1,31 @@
+﻿@model ViewModels.LoginViewModel
+@{
+    Layout = "_AccountLayout";
+    ViewData["Title"] = "ورود به حساب";
+    ViewData["h1"] = "ورود به حساب";
+    ViewData["h1Description"] = "برای سفارش محصول ، لازم است تا به حساب کاربری خود وارد شوید";
+}
+<div class="alert alert-warning">
+    <p>اگر تا به حال ثبت نام نکرده اید ، ابتدا در سایت <a href="" class="link-primary text-decoration-none">ثبت نام </a> کنید</p>
+</div>
+<div class="alert alert-danger">
+    <p>اگر قبلا در سایت ثبت نام کرده اید ولی رمز عبور خود را فراموش کرده اید ، رمز عبور خود را <a href="" class="link-primary text-decoration-none">بازیابی</a> کنید</p>
+</div>
+      </div>
+<div class="form-floating mb-3">
+    <input type="email" class="form-control" id="Email" placeholder="ایمیل خود را وارد کنید">
+    <label for="Email" class="form-label text-dark">آدرس ایمیل</label>
+</div>
+<div class="form-floating">
+    <input type="password" class="form-control" id="Password" placeholder="پسورد خود را وارد کنید">
+    <label for="Password" class="form-label text-dark">پسورد</label>
+</div>
+<div class="col-4 mx-auto mt-3">
+    <input type="submit" class="form-control btn btn-success " value="ورود به حساب">
+</div>
+@section Scripts{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/js/all.min.js"
+            integrity="sha512-yFjZbTYRCJodnuyGlsKamNE/LlEaEAxSUDe5+u61mV8zzqJVFOH7TnULE2/PP/l5vKWpUNnF4VGVkXh3MjgLsg=="
+            crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+}

@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "خانه";
+    ViewData["h1"] = "خانه";
+    ViewData["h1Description"] = "در این جا توضیحاتی در مورد صفحه اصلی سایت قرار می گیرد";
+}
+<div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+    @foreach (Product item in Model)
+    {
+        <div class="col mb-5">
+            <div class="card h-100">
+                <!-- Product image-->
+                <img class="card-img-top" src="/img/productImages/450x300/@item.HorizontalImageName" alt="@item.Name" />
+                <!-- Product details-->
+                <div class="card-body p-4">
+                    <div class="text-center">
+                        <!-- Product name-->
+                        <h5 class="fw-bolder">@item.Name</h5>
+                        <!-- Product price-->
+                        @item.Price تومان
+                    </div>
+                </div>
+                <!-- Product actions-->
+                <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                    <div class="text-center">
+                        <a class="btn btn-outline-dark mt-auto"
+                           asp-action="Single" asp-controller="Product" asp-route-id="@item.ProductID">جزئیات</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    }
+
+</div>

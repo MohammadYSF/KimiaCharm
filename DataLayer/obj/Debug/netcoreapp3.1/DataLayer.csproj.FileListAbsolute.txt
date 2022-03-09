@@ -1,0 +1,12 @@
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+K:\projects\KimiaCharm\KimiaCharm\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
